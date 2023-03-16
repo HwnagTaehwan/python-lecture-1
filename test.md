@@ -1,6 +1,6 @@
 # 이미지 테스트
 
-<img src='image/다운로드.png' width=100>
+<img src='다운로드.png' width=100>
 
 
 # 테스트
